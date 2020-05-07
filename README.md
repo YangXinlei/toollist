@@ -10,3 +10,7 @@
 # [alias]
 slog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 ```
+
+5. [cleaner-for-xcode](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?mt=12)
+
+6. [snap](https://apps.apple.com/cn/app/snap/id418073146?mt=12)
