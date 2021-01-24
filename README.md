@@ -14,3 +14,10 @@ slog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset 
 5. [cleaner-for-xcode](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?mt=12)
 
 6. [snap](https://apps.apple.com/cn/app/snap/id418073146?mt=12)
+
+7. [show timestamp for each command line](https://stackoverflow.com/a/60842361)
+```
+#file .zshrc
+RPROMPT=$PROMPT'[%D{%f/%m/%y} | %D{%L:%M:%S}]'
+```
+
