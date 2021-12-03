@@ -21,3 +21,4 @@ slog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset 
 RPROMPT=$PROMPT'[%D{%f/%m/%y} | %D{%L:%M:%S}]'
 ```
 
+or using [oh-my-posh](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)
