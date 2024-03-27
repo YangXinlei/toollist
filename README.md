@@ -7,9 +7,7 @@
 3. [Maccy](https://github.com/p0deje/Maccy)  (clipboard manager, 替代alfred的剪切板管理，alfred免费版本就基本够用了)
 4. 
 ```
-# file: .gitconfig 
-# [alias]
-slog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+git config --global alias.slog "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
 ```
 
 5. [cleaner-for-xcode](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?mt=12)
