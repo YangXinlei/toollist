@@ -21,3 +21,8 @@ RPROMPT=$PROMPT'[%D{%f/%m/%y} | %D{%L:%M:%S}]'
 ```
 
 or using [oh-my-posh](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)
+
+
+```
+git config --global core.editor "code --wait"
+```
