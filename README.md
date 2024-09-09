@@ -27,3 +27,8 @@ or using [oh-my-posh](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)
 ```
 git config --global core.editor "code --wait"
 ```
+
+9. set calendar to light mode
+```
+defaults write com.apple.iCal NSRequiresAquaSystemAppearance -bool yes
+```
